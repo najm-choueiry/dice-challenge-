@@ -1,2 +1,0 @@
-Implement the attached challenge using HTML, CSS, and JS. No need to clone it as it is.
-Everytime the user refreshes, a new result will appear as per the attached screenshots.

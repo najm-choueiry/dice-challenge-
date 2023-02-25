@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(63, 63, 231);
+}
+
+#header {
+    text-align: center;
+    margin-top: 150px;
+}
+
+div h1 {
+    text-align: center;
+}
+
+.main-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 400px;
+    margin-right:400px;
+    margin-top: 50px;
+}
